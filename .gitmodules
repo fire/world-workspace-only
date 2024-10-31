@@ -16,3 +16,6 @@
 [submodule "world-game-tools"]
 	path = world-game-tools
 	url = https://github.com/V-Sekai/V-Sekai.blender-game-tools.git
+[submodule "world-explorer"]
+	path = world-explorer
+	url = https://github.com/V-Sekai/TOOL_model_explorer.git
