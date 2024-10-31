@@ -19,3 +19,6 @@
 [submodule "world-explorer"]
 	path = world-explorer
 	url = https://github.com/V-Sekai/TOOL_model_explorer.git
+[submodule "world-models"]
+	path = world-models
+	url = https://github.com/V-Sekai/blender-art-blue-tin-fox-models
