@@ -22,3 +22,6 @@
 [submodule "world-models"]
 	path = world-models
 	url = https://github.com/V-Sekai/blender-art-blue-tin-fox-models
+[submodule "world-manuals"]
+	path = world-manuals
+	url = https://github.com/V-Sekai/manuals.git
