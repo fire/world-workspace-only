@@ -4,3 +4,6 @@
 [submodule "https://github.com/V-Sekai/world-editor.git"]
 	path = https://github.com/V-Sekai/world-editor.git
 	url = world-editor
+[submodule "world-editor"]
+	path = world-editor
+	url = https://github.com/V-Sekai/world-editor.git
