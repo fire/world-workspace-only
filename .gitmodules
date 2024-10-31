@@ -10,3 +10,9 @@
 [submodule "world-grid"]
 	path = world-grid
 	url = https://github.com/V-Sekai/world-grid.git
+[submodule "https://github.com/V-Sekai/V-Sekai.blender-game-tools.git"]
+	path = https://github.com/V-Sekai/V-Sekai.blender-game-tools.git
+	url = world-game-tools
+[submodule "world-game-tools"]
+	path = world-game-tools
+	url = https://github.com/V-Sekai/V-Sekai.blender-game-tools.git
