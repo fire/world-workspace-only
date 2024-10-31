@@ -7,3 +7,6 @@
 [submodule "world-editor"]
 	path = world-editor
 	url = https://github.com/V-Sekai/world-editor.git
+[submodule "world-grid"]
+	path = world-grid
+	url = https://github.com/V-Sekai/world-grid.git
